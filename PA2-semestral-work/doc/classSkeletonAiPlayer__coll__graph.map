@@ -1,0 +1,6 @@
+<map id="SkeletonAiPlayer" name="SkeletonAiPlayer">
+<area shape="rect" id="node1" title=" " alt="" coords="5,557,163,679"/>
+<area shape="rect" id="node2" href="$classAiPlayer.html" title=" " alt="" coords="18,388,150,509"/>
+<area shape="rect" id="node3" href="$classPlayer.html" title=" " alt="" coords="31,145,137,340"/>
+<area shape="rect" id="node4" href="$classGameObject.html" title="Class representing objects in game." alt="" coords="20,5,148,97"/>
+</map>

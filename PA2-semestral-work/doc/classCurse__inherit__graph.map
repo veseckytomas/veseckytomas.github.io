@@ -1,0 +1,9 @@
+<map id="Curse" name="Curse">
+<area shape="rect" id="node1" title=" " alt="" coords="264,285,351,377"/>
+<area shape="rect" id="node4" href="$classBombCurse.html" title=" " alt="" coords="5,425,137,532"/>
+<area shape="rect" id="node5" href="$classReverseCurse.html" title=" " alt="" coords="161,425,293,532"/>
+<area shape="rect" id="node6" href="$classSlownessCurse.html" title=" " alt="" coords="318,425,457,532"/>
+<area shape="rect" id="node7" href="$classSpeedCurse.html" title=" " alt="" coords="481,425,613,532"/>
+<area shape="rect" id="node2" href="$classUpgrade.html" title=" " alt="" coords="238,145,377,237"/>
+<area shape="rect" id="node3" href="$classGameObject.html" title="Class representing objects in game." alt="" coords="243,5,371,97"/>
+</map>

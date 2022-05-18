@@ -1,0 +1,21 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classGameObject.html" title="Class representing objects in game." alt="" coords="5,107,108,133"/>
+<area shape="rect" id="node2" href="$classBomb.html" title=" " alt="" coords="165,56,225,83"/>
+<area shape="rect" id="node3" href="$classPlayer.html" title=" " alt="" coords="163,107,226,133"/>
+<area shape="rect" id="node9" href="$classUpgrade.html" title=" " alt="" coords="156,259,233,285"/>
+<area shape="rect" id="node4" href="$classAiPlayer.html" title=" " alt="" coords="309,56,385,83"/>
+<area shape="rect" id="node8" href="$classHumanPlayer.html" title=" " alt="" coords="292,107,403,133"/>
+<area shape="rect" id="node5" href="$classOrcAiPlayer.html" title=" " alt="" coords="478,5,577,32"/>
+<area shape="rect" id="node6" href="$classSkeletonAiPlayer.html" title=" " alt="" coords="461,56,593,83"/>
+<area shape="rect" id="node7" href="$classSpiderAiPlayer.html" title=" " alt="" coords="469,107,586,133"/>
+<area shape="rect" id="node10" href="$classBombUpgrade.html" title=" " alt="" coords="290,157,405,184"/>
+<area shape="rect" id="node11" href="$classCurse.html" title=" " alt="" coords="318,208,377,235"/>
+<area shape="rect" id="node16" href="$classHealthUpgrade.html" title=" " alt="" coords="287,259,407,285"/>
+<area shape="rect" id="node17" href="$classRangeUpgrade.html" title=" " alt="" coords="288,309,407,336"/>
+<area shape="rect" id="node18" href="$classSpeedUpgrade.html" title=" " alt="" coords="289,360,406,387"/>
+<area shape="rect" id="node19" href="$classStrengthUpgrade.html" title=" " alt="" coords="281,411,413,437"/>
+<area shape="rect" id="node12" href="$classBombCurse.html" title=" " alt="" coords="479,157,576,184"/>
+<area shape="rect" id="node13" href="$classReverseCurse.html" title=" " alt="" coords="471,208,583,235"/>
+<area shape="rect" id="node14" href="$classSlownessCurse.html" title=" " alt="" coords="467,259,587,285"/>
+<area shape="rect" id="node15" href="$classSpeedCurse.html" title=" " alt="" coords="478,309,577,336"/>
+</map>

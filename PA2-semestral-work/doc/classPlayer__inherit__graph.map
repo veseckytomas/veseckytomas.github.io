@@ -1,0 +1,9 @@
+<map id="Player" name="Player">
+<area shape="rect" id="node1" title=" " alt="" coords="267,145,372,340"/>
+<area shape="rect" id="node3" href="$classAiPlayer.html" title=" " alt="" coords="175,388,307,509"/>
+<area shape="rect" id="node7" href="$classHumanPlayer.html" title=" " alt="" coords="331,388,465,509"/>
+<area shape="rect" id="node2" href="$classGameObject.html" title="Class representing objects in game." alt="" coords="255,5,383,97"/>
+<area shape="rect" id="node4" href="$classOrcAiPlayer.html" title=" " alt="" coords="5,557,137,679"/>
+<area shape="rect" id="node5" href="$classSkeletonAiPlayer.html" title=" " alt="" coords="162,557,319,679"/>
+<area shape="rect" id="node6" href="$classSpiderAiPlayer.html" title=" " alt="" coords="344,557,487,679"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="SlownessCurse" name="SlownessCurse">
+<area shape="rect" id="node1" title=" " alt="" coords="5,425,144,532"/>
+<area shape="rect" id="node2" href="$classCurse.html" title=" " alt="" coords="31,285,118,377"/>
+<area shape="rect" id="node3" href="$classUpgrade.html" title=" " alt="" coords="5,145,144,237"/>
+<area shape="rect" id="node4" href="$classGameObject.html" title="Class representing objects in game." alt="" coords="11,5,139,97"/>
+</map>
