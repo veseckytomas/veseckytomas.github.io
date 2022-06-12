@@ -1,0 +1,5 @@
+<map id="Game::InitMap" name="Game::InitMap">
+<area shape="rect" id="node1" title="Initializes map." alt="" coords="5,31,124,57"/>
+<area shape="rect" id="node2" href="$classGame.html#adfbee7dffd1d4b1728ad23cc0f0b0904" title="formats input from file" alt="" coords="172,5,320,32"/>
+<area shape="rect" id="node3" href="$classGame.html#aa90cac041d07554f7b5865f43d3ba10d" title="loads objects to map" alt="" coords="182,56,310,83"/>
+</map>

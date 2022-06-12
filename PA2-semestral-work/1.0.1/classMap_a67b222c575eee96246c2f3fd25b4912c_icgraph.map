@@ -1,0 +1,4 @@
+<map id="Map::Init" name="Map::Init">
+<area shape="rect" id="node1" title="initializes map" alt="" coords="140,5,219,32"/>
+<area shape="rect" id="node2" href="$classMap.html#a0f5ad0fd4563497b4214038cbca8b582" title="Construct a new empty Map object." alt="" coords="5,5,92,32"/>
+</map>

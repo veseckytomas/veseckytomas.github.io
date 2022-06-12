@@ -1,9 +1,0 @@
-<map id="src/hpp/gameObjects/upgrades/curses/reverseCurse.hpp" name="src/hpp/gameObjects/upgrades/curses/reverseCurse.hpp">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,256,47"/>
-<area shape="rect" id="node2" href="$curse_8hpp.html" title=" " alt="" coords="88,95,173,121"/>
-<area shape="rect" id="node3" href="$upgrade_8hpp.html" title=" " alt="" coords="79,169,182,196"/>
-<area shape="rect" id="node4" href="$gameObject_8hpp.html" title=" " alt="" coords="66,319,195,345"/>
-<area shape="rect" id="node7" href="$player_8hpp.html" title=" " alt="" coords="127,244,217,271"/>
-<area shape="rect" id="node5" title=" " alt="" coords="35,393,112,420"/>
-<area shape="rect" id="node6" href="$location_8hpp.html" title=" " alt="" coords="137,393,239,420"/>
-</map>

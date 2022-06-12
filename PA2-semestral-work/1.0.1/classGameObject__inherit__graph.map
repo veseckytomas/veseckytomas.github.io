@@ -1,0 +1,10 @@
+<map id="GameObject" name="GameObject">
+<area shape="rect" id="node1" title="Class representing objects in game." alt="" coords="299,5,480,288"/>
+<area shape="rect" id="node2" href="$classBomb.html" title="class representing bomb" alt="" coords="5,336,155,545"/>
+<area shape="rect" id="node3" href="$classDestructibleWall.html" title="class representing wall that can be destroyed" alt="" coords="179,402,333,479"/>
+<area shape="rect" id="node4" href="$classFigure.html" title="class representing object that can peform actions" alt="" coords="358,402,421,479"/>
+<area shape="rect" id="node7" href="$classUpgrade.html" title="class representing upgade in game" alt="" coords="445,395,595,487"/>
+<area shape="rect" id="node8" href="$classWall.html" title="class representing wall in game" alt="" coords="619,402,693,479"/>
+<area shape="rect" id="node5" href="$classEnemy.html" title=" " alt="" coords="231,593,380,773"/>
+<area shape="rect" id="node6" href="$classPlayer.html" title=" " alt="" coords="404,601,543,766"/>
+</map>

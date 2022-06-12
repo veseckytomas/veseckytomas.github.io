@@ -1,0 +1,4 @@
+<map id="Bomb::Detonate" name="Bomb::Detonate">
+<area shape="rect" id="node1" title="detonates the bomb" alt="" coords="168,5,296,32"/>
+<area shape="rect" id="node2" href="$classBomb.html#a26f3119f77ab19b5074ec6824eadb969" title="updates the bomb counts for detonation and for explosion after" alt="" coords="5,5,120,32"/>
+</map>

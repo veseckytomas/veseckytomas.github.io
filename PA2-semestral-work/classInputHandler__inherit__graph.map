@@ -1,5 +1,0 @@
-<map id="InputHandler" name="InputHandler">
-<area shape="rect" id="node1" title=" " alt="" coords="105,5,235,97"/>
-<area shape="rect" id="node2" href="$classDummyHandler.html" title=" " alt="" coords="5,160,156,252"/>
-<area shape="rect" id="node3" href="$classGamePadHandler.html" title=" " alt="" coords="181,145,341,267"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="src/hpp/gameObjects/upgrades/strengthUpgrade.hpp" name="src/hpp/gameObjects/upgrades/strengthUpgrade.hpp">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,232,47"/>
-<area shape="rect" id="node2" href="$upgrade_8hpp.html" title=" " alt="" coords="67,95,170,121"/>
-<area shape="rect" id="node3" href="$gameObject_8hpp.html" title=" " alt="" coords="54,244,183,271"/>
-<area shape="rect" id="node6" href="$player_8hpp.html" title=" " alt="" coords="115,169,205,196"/>
-<area shape="rect" id="node4" title=" " alt="" coords="23,319,100,345"/>
-<area shape="rect" id="node5" href="$location_8hpp.html" title=" " alt="" coords="125,319,227,345"/>
-</map>

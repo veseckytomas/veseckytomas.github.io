@@ -1,8 +1,0 @@
-<map id="src/hpp/gameObjects/upgrades/healthUpgrade.hpp" name="src/hpp/gameObjects/upgrades/healthUpgrade.hpp">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,220,47"/>
-<area shape="rect" id="node2" href="$upgrade_8hpp.html" title=" " alt="" coords="61,95,164,121"/>
-<area shape="rect" id="node3" href="$gameObject_8hpp.html" title=" " alt="" coords="48,244,177,271"/>
-<area shape="rect" id="node6" href="$player_8hpp.html" title=" " alt="" coords="109,169,199,196"/>
-<area shape="rect" id="node4" title=" " alt="" coords="17,319,94,345"/>
-<area shape="rect" id="node5" href="$location_8hpp.html" title=" " alt="" coords="119,319,221,345"/>
-</map>

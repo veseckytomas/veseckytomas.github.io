@@ -1,0 +1,7 @@
+<map id="Bomb" name="Bomb">
+<area shape="rect" id="node1" title="class representing bomb" alt="" coords="27,861,176,1056"/>
+<area shape="rect" id="node2" href="$classGameObject.html" title="Class representing objects in game." alt="" coords="5,189,187,457"/>
+<area shape="rect" id="node5" href="$classFigure.html" title="class representing object that can peform actions" alt="" coords="137,507,199,584"/>
+<area shape="rect" id="node3" href="$classLocation.html" title="Class representing location in game." alt="" coords="34,5,158,127"/>
+<area shape="rect" id="node4" href="$classPlayer.html" title=" " alt="" coords="117,633,256,799"/>
+</map>
