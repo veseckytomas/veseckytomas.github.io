@@ -1,0 +1,9 @@
+<map id="Game::Init" name="Game::Init">
+<area shape="rect" id="node1" title="Initializes game at start." alt="" coords="5,81,96,108"/>
+<area shape="rect" id="node2" href="$classGame.html#aab3f7f0404328ebfe75a16ed633516ab" title="Initializes enemies." alt="" coords="144,5,291,32"/>
+<area shape="rect" id="node3" href="$classGame.html#aae4b478f152265ac4c179889f74fc1e5" title="Initializes map." alt="" coords="158,56,277,83"/>
+<area shape="rect" id="node6" href="$classGame.html#aff6d5e15eb48f7a0c52a9c91e876d245" title="Initializes ncurses." alt="" coords="146,107,289,133"/>
+<area shape="rect" id="node7" href="$classGame.html#a4cad4f92372525c758f6a9acafb255c4" title="Initializes player." alt="" coords="152,157,283,184"/>
+<area shape="rect" id="node4" href="$classGame.html#adfbee7dffd1d4b1728ad23cc0f0b0904" title="formats input from file" alt="" coords="339,31,487,57"/>
+<area shape="rect" id="node5" href="$classGame.html#aa90cac041d07554f7b5865f43d3ba10d" title="loads objects to map" alt="" coords="349,81,477,108"/>
+</map>

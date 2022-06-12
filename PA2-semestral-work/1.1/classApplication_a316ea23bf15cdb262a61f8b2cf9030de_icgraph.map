@@ -1,0 +1,5 @@
+<map id="Application::ReadInput" name="Application::ReadInput">
+<area shape="rect" id="node1" title="reads keyboard input from user" alt="" coords="412,5,581,32"/>
+<area shape="rect" id="node2" href="$classApplication.html#a11420a80075514f27320ebfa5f00278f" title="handles input from user" alt="" coords="181,5,364,32"/>
+<area shape="rect" id="node3" href="$classApplication.html#aaf09cd6cb412086dc039e28cdb059f0d" title="runs the application" alt="" coords="5,5,133,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Window" name="Window">
+<area shape="rect" id="node1" title="Class representing single window." alt="" coords="136,5,303,141"/>
+<area shape="rect" id="node2" href="$classGame.html" title="Class representing single game." alt="" coords="5,189,132,501"/>
+<area shape="rect" id="node3" href="$classMenu.html" title="Class used for menu." alt="" coords="156,255,283,435"/>
+<area shape="rect" id="node4" href="$classStoryWindow.html" title="class used for displaying story" alt="" coords="307,241,441,450"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Player::HandleInput" name="Player::HandleInput">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,156,83"/>
+<area shape="rect" id="node2" href="$classPlayer.html#a81ba181c6ff5dad506e8b3624303053d" title=" " alt="" coords="204,5,351,32"/>
+<area shape="rect" id="node5" href="$classMap.html#a16517020d5e371947b93796bb5dbd10d" title="checks if Location is free" alt="" coords="229,107,326,133"/>
+<area shape="rect" id="node6" href="$classPlayer.html#aa141ea127e703947d5f18dc77668cd27" title=" " alt="" coords="206,56,349,83"/>
+<area shape="rect" id="node3" href="$classMap.html#a72adf4e41e8e6558e58c2efe20445f7f" title="Getter for height of map." alt="" coords="399,56,523,83"/>
+<area shape="rect" id="node4" href="$classMap.html#aeca77ed7c01dec1e8effa05f0e08c266" title="Getter for width of map." alt="" coords="402,5,521,32"/>
+<area shape="rect" id="node7" href="$classMap.html#ad8f773cb98e5a6260891344b28c294d2" title="Adds new object to map." alt="" coords="399,107,524,133"/>
+</map>

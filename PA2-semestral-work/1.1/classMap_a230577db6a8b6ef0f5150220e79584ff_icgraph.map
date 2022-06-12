@@ -1,0 +1,4 @@
+<map id="Map::ClearMap" name="Map::ClearMap">
+<area shape="rect" id="node1" title="clears drew map" alt="" coords="159,5,279,32"/>
+<area shape="rect" id="node2" href="$classMap.html#a81d73c75feaa47956f29504700b83683" title="Updates map and objects state." alt="" coords="5,5,111,32"/>
+</map>

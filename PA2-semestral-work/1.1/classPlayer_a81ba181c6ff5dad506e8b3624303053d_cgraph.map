@@ -1,0 +1,5 @@
+<map id="Player::CheckMove" name="Player::CheckMove">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,152,57"/>
+<area shape="rect" id="node2" href="$classMap.html#a72adf4e41e8e6558e58c2efe20445f7f" title="Getter for height of map." alt="" coords="200,5,324,32"/>
+<area shape="rect" id="node3" href="$classMap.html#aeca77ed7c01dec1e8effa05f0e08c266" title="Getter for width of map." alt="" coords="203,56,321,83"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Application::ChangeWindow" name="Application::ChangeWindow">
+<area shape="rect" id="node1" title="changes application window according to app state" alt="" coords="181,5,385,32"/>
+<area shape="rect" id="node2" href="$classApplication.html#aaf09cd6cb412086dc039e28cdb059f0d" title="runs the application" alt="" coords="5,5,133,32"/>
+</map>

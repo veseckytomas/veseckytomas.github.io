@@ -1,0 +1,4 @@
+<map id="Player::ApplyUpgrade" name="Player::ApplyUpgrade">
+<area shape="rect" id="node1" title=" " alt="" coords="240,5,403,32"/>
+<area shape="rect" id="node2" href="$classUpgrade.html#abe02a6033118464ca0393d81486eaa17" title="Handles colisions with other objects." alt="" coords="5,5,192,32"/>
+</map>
