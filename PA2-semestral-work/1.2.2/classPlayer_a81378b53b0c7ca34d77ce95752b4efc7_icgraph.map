@@ -1,0 +1,4 @@
+<map id="Player::CheckMove" name="Player::CheckMove">
+<area shape="rect" id="node1" title="checks if player made valid move" alt="" coords="204,5,351,32"/>
+<area shape="rect" id="node2" href="$classPlayer.html#acd17a6b427c32ce37c7dd7e435cf2d9e" title="Handles input from player." alt="" coords="5,5,156,32"/>
+</map>

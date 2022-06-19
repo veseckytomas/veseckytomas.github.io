@@ -1,0 +1,8 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,60,57"/>
+<area shape="rect" id="node2" href="$classApplication.html#a276388f7090c0a2b1c8b16cf033b969d" title="initializes the application" alt="" coords="110,5,234,32"/>
+<area shape="rect" id="node3" href="$classApplication.html#aaf09cd6cb412086dc039e28cdb059f0d" title="runs the application" alt="" coords="108,56,236,83"/>
+<area shape="rect" id="node4" href="$classApplication.html#acf077cf4653f295738fec1922955ed9f" title="changes application window according to app state" alt="" coords="284,31,488,57"/>
+<area shape="rect" id="node5" href="$classApplication.html#a11420a80075514f27320ebfa5f00278f" title="handles input from user" alt="" coords="295,81,477,108"/>
+<area shape="rect" id="node6" href="$classApplication.html#a316ea23bf15cdb262a61f8b2cf9030de" title="reads keyboard input from user" alt="" coords="536,81,705,108"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="include/figure.hpp" name="include/figure.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="340,5,479,32"/>
+<area shape="rect" id="node2" href="$player_8hpp.html" title=" " alt="" coords="285,80,427,107"/>
+<area shape="rect" id="node13" href="$enemy_8hpp.html" title=" " alt="" coords="469,155,613,181"/>
+<area shape="rect" id="node3" href="$player_8cpp.html" title=" " alt="" coords="5,155,117,181"/>
+<area shape="rect" id="node4" href="$map_8hpp.html" title=" " alt="" coords="365,229,496,256"/>
+<area shape="rect" id="node11" href="$bomb_8hpp.html" title=" " alt="" coords="97,304,236,331"/>
+<area shape="rect" id="node15" href="$upgrade_8hpp.html" title=" " alt="" coords="216,155,371,181"/>
+<area shape="rect" id="node5" href="$map_8cpp.html" title=" " alt="" coords="304,304,405,331"/>
+<area shape="rect" id="node6" href="$game_8hpp.html" title=" " alt="" coords="429,304,568,331"/>
+<area shape="rect" id="node7" href="$game_8cpp.html" title=" " alt="" coords="323,379,432,405"/>
+<area shape="rect" id="node8" href="$application_8hpp.html" title=" " alt="" coords="456,379,629,405"/>
+<area shape="rect" id="node9" href="$application_8cpp.html" title=" " alt="" coords="396,453,540,480"/>
+<area shape="rect" id="node10" href="$main_8cpp.html" title=" " alt="" coords="565,453,670,480"/>
+<area shape="rect" id="node12" href="$bomb_8cpp.html" title=" " alt="" coords="112,379,221,405"/>
+<area shape="rect" id="node14" href="$enemy_8cpp.html" title=" " alt="" coords="520,229,635,256"/>
+<area shape="rect" id="node16" href="$upgrade_8cpp.html" title=" " alt="" coords="216,229,341,256"/>
+</map>

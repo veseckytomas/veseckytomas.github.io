@@ -1,0 +1,6 @@
+<map id="Application::Run" name="Application::Run">
+<area shape="rect" id="node1" title="runs the application" alt="" coords="5,31,133,57"/>
+<area shape="rect" id="node2" href="$classApplication.html#acf077cf4653f295738fec1922955ed9f" title="changes application window according to app state" alt="" coords="181,5,385,32"/>
+<area shape="rect" id="node3" href="$classApplication.html#a11420a80075514f27320ebfa5f00278f" title="handles input from user" alt="" coords="192,56,375,83"/>
+<area shape="rect" id="node4" href="$classApplication.html#a316ea23bf15cdb262a61f8b2cf9030de" title="reads keyboard input from user" alt="" coords="433,56,603,83"/>
+</map>

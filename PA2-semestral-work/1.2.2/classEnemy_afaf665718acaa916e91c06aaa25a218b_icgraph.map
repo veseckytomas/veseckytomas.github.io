@@ -1,0 +1,4 @@
+<map id="Enemy::IsFreeLoc" name="Enemy::IsFreeLoc">
+<area shape="rect" id="node1" title="checks if location is free to be stepped on" alt="" coords="156,5,291,32"/>
+<area shape="rect" id="node2" href="$classEnemy.html#a6801fb620224e2d316738bc1cc65b063" title="performs movement" alt="" coords="5,5,108,32"/>
+</map>
