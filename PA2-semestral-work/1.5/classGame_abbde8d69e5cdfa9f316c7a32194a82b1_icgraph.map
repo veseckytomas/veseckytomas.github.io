@@ -1,0 +1,4 @@
+<map id="Game::SaveResults" name="Game::SaveResults">
+<area shape="rect" id="node1" title="saves results of current game to file" alt="" coords="172,5,321,32"/>
+<area shape="rect" id="node2" href="$classGame.html#a3500c6812966c04ace63b44b9b29e62a" title="Destroy the Game object." alt="" coords="5,5,124,32"/>
+</map>

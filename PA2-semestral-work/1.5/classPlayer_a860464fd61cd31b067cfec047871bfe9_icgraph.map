@@ -1,0 +1,4 @@
+<map id="Player::CageOpened" name="Player::CageOpened">
+<area shape="rect" id="node1" title="Getter player cage opening." alt="" coords="219,5,373,32"/>
+<area shape="rect" id="node2" href="$classCage.html#a59cad20d55c011b685a884c6421d3699" title="Handles colisions with other objects." alt="" coords="5,5,171,32"/>
+</map>

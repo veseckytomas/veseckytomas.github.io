@@ -1,0 +1,8 @@
+<map id="GameObject::GetLocation" name="GameObject::GetLocation">
+<area shape="rect" id="node1" title="Getter of the Location of object." alt="" coords="240,107,429,133"/>
+<area shape="rect" id="node2" href="$classCage.html#a59cad20d55c011b685a884c6421d3699" title="Handles colisions with other objects." alt="" coords="16,5,181,32"/>
+<area shape="rect" id="node3" href="$classUpgrade.html#abe02a6033118464ca0393d81486eaa17" title="Handles colisions with other objects." alt="" coords="5,56,192,83"/>
+<area shape="rect" id="node4" href="$classKey.html#a00d33780e2ab541d45d3ed1deccef215" title="Handles colisions with other objects." alt="" coords="21,107,176,133"/>
+<area shape="rect" id="node5" href="$classBomb.html#ab1ca07b1dce22baaf3ab4cff45f346f0" title="handles collision with other objects" alt="" coords="13,157,184,184"/>
+<area shape="rect" id="node6" href="$classEnemy.html#acc0507c720b710de09191d7b72b36021" title="handles colision with other objects" alt="" coords="11,208,187,235"/>
+</map>

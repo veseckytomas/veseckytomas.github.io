@@ -1,0 +1,5 @@
+<map id="Upgrade" name="Upgrade">
+<area shape="rect" id="node1" title="class representing upgade in game" alt="" coords="21,536,171,628"/>
+<area shape="rect" id="node2" href="$classGameObject.html" title="Class representing objects in game." alt="" coords="5,219,187,487"/>
+<area shape="rect" id="node3" href="$classLocation.html" title="Class representing location in game." alt="" coords="34,5,158,156"/>
+</map>

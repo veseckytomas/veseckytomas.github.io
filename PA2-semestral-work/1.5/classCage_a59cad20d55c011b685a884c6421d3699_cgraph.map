@@ -1,0 +1,5 @@
+<map id="Cage::HandleCollision" name="Cage::HandleCollision">
+<area shape="rect" id="node1" title="Handles colisions with other objects." alt="" coords="5,31,171,57"/>
+<area shape="rect" id="node2" href="$classPlayer.html#a860464fd61cd31b067cfec047871bfe9" title="Getter player cage opening." alt="" coords="236,5,391,32"/>
+<area shape="rect" id="node3" href="$classGameObject.html#a51b72a5ef65964d9fc49114ef101f88e" title="Getter of the Location of object." alt="" coords="219,56,408,83"/>
+</map>

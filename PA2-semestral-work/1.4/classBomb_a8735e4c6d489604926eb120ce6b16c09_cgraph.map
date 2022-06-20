@@ -1,0 +1,5 @@
+<map id="Bomb::DetonateSouth" name="Bomb::DetonateSouth">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,171,57"/>
+<area shape="rect" id="node2" href="$classMap.html#a72adf4e41e8e6558e58c2efe20445f7f" title="Getter for height of map." alt="" coords="222,5,346,32"/>
+<area shape="rect" id="node3" href="$classMap.html#afe1ffea02f20fbdab6b6ac1accdc495a" title="Getter for vector of GameObjects." alt="" coords="219,56,349,83"/>
+</map>

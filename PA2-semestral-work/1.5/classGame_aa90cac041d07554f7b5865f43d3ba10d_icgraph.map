@@ -1,0 +1,5 @@
+<map id="Game::LoadMap" name="Game::LoadMap">
+<area shape="rect" id="node1" title="loads objects to map" alt="" coords="328,5,456,32"/>
+<area shape="rect" id="node2" href="$classGame.html#aae4b478f152265ac4c179889f74fc1e5" title="Initializes map." alt="" coords="161,5,280,32"/>
+<area shape="rect" id="node3" href="$classGame.html#ad59df6562a58a614fda24622d3715b65" title="Construct a new Game object." alt="" coords="5,5,113,32"/>
+</map>

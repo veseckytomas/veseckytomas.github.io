@@ -1,0 +1,6 @@
+<map id="Enemy::Play" name="Enemy::Play">
+<area shape="rect" id="node1" title="performs movement" alt="" coords="5,56,108,83"/>
+<area shape="rect" id="node2" href="$classEnemy.html#a4409db03708f9355bc11be4be4721b7f" title="changes direction of enemy if not possible to move forward" alt="" coords="156,5,339,32"/>
+<area shape="rect" id="node3" href="$classEnemy.html#afaf665718acaa916e91c06aaa25a218b" title="checks if location is free to be stepped on" alt="" coords="180,56,315,83"/>
+<area shape="rect" id="node4" href="$classEnemy.html#ab982b48c1fdbc652367ab168b18e0dfd" title="Set enemy location." alt="" coords="172,107,323,133"/>
+</map>

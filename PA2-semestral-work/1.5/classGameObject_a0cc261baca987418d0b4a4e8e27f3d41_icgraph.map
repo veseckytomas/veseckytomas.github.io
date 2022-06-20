@@ -1,0 +1,4 @@
+<map id="GameObject::IsObsolete" name="GameObject::IsObsolete">
+<area shape="rect" id="node1" title="Returns value if object is still needed." alt="" coords="224,5,404,32"/>
+<area shape="rect" id="node2" href="$classBomb.html#ab1ca07b1dce22baaf3ab4cff45f346f0" title="handles collision with other objects" alt="" coords="5,5,176,32"/>
+</map>

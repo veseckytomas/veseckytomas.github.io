@@ -1,0 +1,4 @@
+<map id="Map::AddPlayer" name="Map::AddPlayer">
+<area shape="rect" id="node1" title="adds player to map" alt="" coords="5,5,129,32"/>
+<area shape="rect" id="node2" href="$classMap.html#ad8f773cb98e5a6260891344b28c294d2" title="Adds new object to map." alt="" coords="177,5,303,32"/>
+</map>

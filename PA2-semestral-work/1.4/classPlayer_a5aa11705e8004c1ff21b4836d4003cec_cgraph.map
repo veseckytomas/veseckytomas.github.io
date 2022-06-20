@@ -1,0 +1,4 @@
+<map id="Player::PlantBomb" name="Player::PlantBomb">
+<area shape="rect" id="node1" title="plants bomb on players location" alt="" coords="5,5,148,32"/>
+<area shape="rect" id="node2" href="$classMap.html#ad8f773cb98e5a6260891344b28c294d2" title="Adds new object to map." alt="" coords="196,5,321,32"/>
+</map>

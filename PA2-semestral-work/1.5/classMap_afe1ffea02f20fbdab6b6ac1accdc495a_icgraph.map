@@ -1,0 +1,9 @@
+<map id="Map::GetObjects" name="Map::GetObjects">
+<area shape="rect" id="node1" title="Getter for vector of GameObjects." alt="" coords="557,81,688,108"/>
+<area shape="rect" id="node2" href="$classBomb.html#ac8c866f94e72e585f6eb0d71fa90cf9e" title=" " alt="" coords="349,5,505,32"/>
+<area shape="rect" id="node5" href="$classBomb.html#a93fc3058b7c1d8529c5af655cb19d828" title=" " alt="" coords="345,56,509,83"/>
+<area shape="rect" id="node6" href="$classBomb.html#a8735e4c6d489604926eb120ce6b16c09" title=" " alt="" coords="344,107,509,133"/>
+<area shape="rect" id="node7" href="$classBomb.html#a9b311411ff9d39d03b38f7ff01d961c6" title=" " alt="" coords="347,157,507,184"/>
+<area shape="rect" id="node3" href="$classBomb.html#a010b030e39c1791bda657e411d6fc7bb" title="detonates the bomb" alt="" coords="168,81,296,108"/>
+<area shape="rect" id="node4" href="$classBomb.html#a26f3119f77ab19b5074ec6824eadb969" title="updates the bomb counts for detonation and for explosion after" alt="" coords="5,81,120,108"/>
+</map>

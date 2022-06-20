@@ -1,0 +1,4 @@
+<map id="Game::Draw" name="Game::Draw">
+<area shape="rect" id="node1" title="Draws game." alt="" coords="148,5,251,32"/>
+<area shape="rect" id="node2" href="$classGame.html#aa3fd35403f57e7127ca9aa8af366456d" title="Runs game." alt="" coords="5,5,100,32"/>
+</map>

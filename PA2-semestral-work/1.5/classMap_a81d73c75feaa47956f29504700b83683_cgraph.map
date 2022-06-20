@@ -1,0 +1,4 @@
+<map id="Map::Update" name="Map::Update">
+<area shape="rect" id="node1" title="Updates map and objects state." alt="" coords="5,5,111,32"/>
+<area shape="rect" id="node2" href="$classMap.html#a230577db6a8b6ef0f5150220e79584ff" title="clears drew map" alt="" coords="159,5,279,32"/>
+</map>

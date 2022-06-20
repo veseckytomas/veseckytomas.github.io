@@ -1,0 +1,4 @@
+<map id="Player::SetKey" name="Player::SetKey">
+<area shape="rect" id="node1" title="Set information if player picked up key." alt="" coords="208,5,324,32"/>
+<area shape="rect" id="node2" href="$classKey.html#a00d33780e2ab541d45d3ed1deccef215" title="Handles colisions with other objects." alt="" coords="5,5,160,32"/>
+</map>

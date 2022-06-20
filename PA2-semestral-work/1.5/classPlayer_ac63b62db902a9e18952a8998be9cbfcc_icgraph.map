@@ -1,0 +1,4 @@
+<map id="Player::AddPoints" name="Player::AddPoints">
+<area shape="rect" id="node1" title="adds amount of points to player" alt="" coords="224,5,360,32"/>
+<area shape="rect" id="node2" href="$classBomb.html#ab1ca07b1dce22baaf3ab4cff45f346f0" title="handles collision with other objects" alt="" coords="5,5,176,32"/>
+</map>

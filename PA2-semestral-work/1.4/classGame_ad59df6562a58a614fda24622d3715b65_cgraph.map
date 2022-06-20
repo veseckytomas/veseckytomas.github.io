@@ -1,0 +1,7 @@
+<map id="Game::Game" name="Game::Game">
+<area shape="rect" id="node1" title="Construct a new Game object." alt="" coords="5,56,113,83"/>
+<area shape="rect" id="node2" href="$classGame.html#aae4b478f152265ac4c179889f74fc1e5" title="Initializes map." alt="" coords="173,31,292,57"/>
+<area shape="rect" id="node5" href="$classGame.html#aff6d5e15eb48f7a0c52a9c91e876d245" title="Initializes ncurses." alt="" coords="161,81,304,108"/>
+<area shape="rect" id="node3" href="$classGame.html#adfbee7dffd1d4b1728ad23cc0f0b0904" title="formats input from file" alt="" coords="352,5,500,32"/>
+<area shape="rect" id="node4" href="$classGame.html#aa90cac041d07554f7b5865f43d3ba10d" title="loads objects to map" alt="" coords="362,56,490,83"/>
+</map>

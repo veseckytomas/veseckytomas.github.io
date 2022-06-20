@@ -1,0 +1,5 @@
+<map id="Key::HandleCollision" name="Key::HandleCollision">
+<area shape="rect" id="node1" title="Handles colisions with other objects." alt="" coords="5,31,160,57"/>
+<area shape="rect" id="node2" href="$classGameObject.html#a51b72a5ef65964d9fc49114ef101f88e" title="Getter of the Location of object." alt="" coords="208,5,397,32"/>
+<area shape="rect" id="node3" href="$classPlayer.html#a7abbc67fdc9f569b219f5eb2be32d71f" title="Set information if player picked up key." alt="" coords="245,56,361,83"/>
+</map>

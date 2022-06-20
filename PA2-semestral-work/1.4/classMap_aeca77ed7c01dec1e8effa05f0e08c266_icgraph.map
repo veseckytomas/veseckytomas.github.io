@@ -1,0 +1,8 @@
+<map id="Map::GetWidth" name="Map::GetWidth">
+<area shape="rect" id="node1" title="Getter for width of map." alt="" coords="571,31,689,57"/>
+<area shape="rect" id="node2" href="$classPlayer.html#a81378b53b0c7ca34d77ce95752b4efc7" title="checks if player made valid move" alt="" coords="371,5,518,32"/>
+<area shape="rect" id="node4" href="$classBomb.html#ac8c866f94e72e585f6eb0d71fa90cf9e" title=" " alt="" coords="367,56,523,83"/>
+<area shape="rect" id="node3" href="$classPlayer.html#acd17a6b427c32ce37c7dd7e435cf2d9e" title="Handles input from player." alt="" coords="168,5,319,32"/>
+<area shape="rect" id="node5" href="$classBomb.html#a010b030e39c1791bda657e411d6fc7bb" title="detonates the bomb" alt="" coords="179,56,307,83"/>
+<area shape="rect" id="node6" href="$classBomb.html#a26f3119f77ab19b5074ec6824eadb969" title="updates the bomb counts for detonation and for explosion after" alt="" coords="5,56,120,83"/>
+</map>

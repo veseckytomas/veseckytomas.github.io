@@ -1,0 +1,5 @@
+<map id="Upgrade::HandleCollision" name="Upgrade::HandleCollision">
+<area shape="rect" id="node1" title="Handles colisions with other objects." alt="" coords="5,31,192,57"/>
+<area shape="rect" id="node2" href="$classPlayer.html#a4e0f2933e38d92634dd5453f8f22f01c" title="applies upgrade to player" alt="" coords="253,5,416,32"/>
+<area shape="rect" id="node3" href="$classGameObject.html#a51b72a5ef65964d9fc49114ef101f88e" title="Getter of the Location of object." alt="" coords="240,56,429,83"/>
+</map>

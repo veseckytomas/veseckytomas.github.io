@@ -1,0 +1,8 @@
+<map id="Bomb::HandleCollision" name="Bomb::HandleCollision">
+<area shape="rect" id="node1" title="handles collision with other objects" alt="" coords="5,107,176,133"/>
+<area shape="rect" id="node2" href="$classPlayer.html#ac63b62db902a9e18952a8998be9cbfcc" title="adds amount of points to player" alt="" coords="257,5,393,32"/>
+<area shape="rect" id="node3" href="$classGameObject.html#a51b72a5ef65964d9fc49114ef101f88e" title="Getter of the Location of object." alt="" coords="230,56,419,83"/>
+<area shape="rect" id="node4" href="$classGameObject.html#a8a23d4c21c1cd518afc718126deaceae" title="Getter if object is destructible." alt="" coords="224,107,425,133"/>
+<area shape="rect" id="node5" href="$classGameObject.html#a0cc261baca987418d0b4a4e8e27f3d41" title="Returns value if object is still needed." alt="" coords="235,157,415,184"/>
+<area shape="rect" id="node6" href="$classGameObject.html#ac778421d890b2ce195373f64b38cbac7" title="Set if object is still needed." alt="" coords="229,208,420,235"/>
+</map>

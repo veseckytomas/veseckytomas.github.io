@@ -1,0 +1,4 @@
+<map id="Enemy::SetLocation" name="Enemy::SetLocation">
+<area shape="rect" id="node1" title="Set enemy location." alt="" coords="156,5,307,32"/>
+<area shape="rect" id="node2" href="$classEnemy.html#a6801fb620224e2d316738bc1cc65b063" title="performs movement" alt="" coords="5,5,108,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Cage" name="Cage">
+<area shape="rect" id="node1" title="class representing upgade in game" alt="" coords="21,336,171,428"/>
+<area shape="rect" id="node2" href="$classGameObject.html" title="Class representing objects in game." alt="" coords="5,5,187,288"/>
+</map>

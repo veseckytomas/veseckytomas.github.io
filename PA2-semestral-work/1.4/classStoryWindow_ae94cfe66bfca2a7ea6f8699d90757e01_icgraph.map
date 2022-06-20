@@ -1,0 +1,4 @@
+<map id="StoryWindow::InitNcurses" name="StoryWindow::InitNcurses">
+<area shape="rect" id="node1" title="initializes ncurses" alt="" coords="255,5,443,32"/>
+<area shape="rect" id="node2" href="$classStoryWindow.html#a55b5b3e36f2578ab3ac70154c8fe4f6f" title="constructor" alt="" coords="5,5,207,32"/>
+</map>

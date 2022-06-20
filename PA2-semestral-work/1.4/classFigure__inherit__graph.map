@@ -1,0 +1,6 @@
+<map id="Figure" name="Figure">
+<area shape="rect" id="node1" title="class representing object that can peform actions" alt="" coords="133,336,195,413"/>
+<area shape="rect" id="node3" href="$classEnemy.html" title=" " alt="" coords="5,549,155,729"/>
+<area shape="rect" id="node4" href="$classPlayer.html" title="class representing player in game" alt="" coords="179,461,317,817"/>
+<area shape="rect" id="node2" href="$classGameObject.html" title="Class representing objects in game." alt="" coords="73,5,255,288"/>
+</map>

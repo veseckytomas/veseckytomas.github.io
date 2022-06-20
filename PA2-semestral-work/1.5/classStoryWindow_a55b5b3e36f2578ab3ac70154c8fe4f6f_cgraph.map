@@ -1,0 +1,5 @@
+<map id="StoryWindow::StoryWindow" name="StoryWindow::StoryWindow">
+<area shape="rect" id="node1" title="constructor" alt="" coords="5,31,207,57"/>
+<area shape="rect" id="node2" href="$classStoryWindow.html#ac769e6713d8fa75c9f6379f6648ec064" title="formats file contents for display" alt="" coords="255,5,449,32"/>
+<area shape="rect" id="node3" href="$classStoryWindow.html#ae94cfe66bfca2a7ea6f8699d90757e01" title="initializes ncurses" alt="" coords="258,56,446,83"/>
+</map>
